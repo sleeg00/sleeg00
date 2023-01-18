@@ -8,6 +8,5 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sleeg00&layout=compact) 
 ![Anurag's github stats](http://mazassumnida.wtf/api/generate_badge?boj=aszx013)
 
