@@ -36,5 +36,5 @@
 <br><br><br>
 
 | GitHub Stats | Most Used Languages |
-| ------------ | ------------------ |
+| ------------ | ------------------- |
 | <img src="https://github-readme-stats.vercel.app/api?username=sleeg00" width="600"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleeg00&langs_count=5&layout=compact" width="500"> |
