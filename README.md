@@ -1,35 +1,21 @@
+<!-- Minimal Profile README: Awards + Papers + One‑line Career -->
 
-###
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20SeongHyeon%20GitHub&fontSize=45&animation=twinkling&fontAlignY=40)
-
-
-----
-
-<div align="center">
-  <h4>📚 Tech Stacks 📚</h4>
-  <h4>⛏️ used as the main⛏️</h4>
-  <img src="https://img.shields.io/badge/C-Language-brightgreen?style=flat-square">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-  <a href="https://shields.io/"></a><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-blue.svg"></a>
-  <br><br>
-</p>
-  
-</div>
+<h1 align="center">👋 Hi, I'm 이성현</h1>
 
 ---
-<div align="center">
-  <h4>Tech Blog</h4>
-  <a href="https://sleeg.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Tistory&logoColor=white">
-  </a>
-</div>
-<br><br><br>
 
-| GitHub Stats | Most Used Languages |
-| ------------ | ------------------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=sleeg00" width="600"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleeg00&langs_count=5&layout=compact" width="500"> |
+## 🏆 Awards
+
+* **한국정보처리학회 ACK 2023 추계학술발표대회 총장상**
+
+---
+
+## 📄 Papers
+
+* **[Reed-Solomon Encoded Block Storage in Key-value Store-based Blockchain Systems](https://doi.org/10.3745/TKIPS.2024.13.3.102)**
+
+---
+
+## 👔 Career
+
+한국전자통신연구원 (ETRI) — Research Internship (Blockchain scalability), 2023.07 ~ 2023.08
