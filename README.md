@@ -1,20 +1,16 @@
-<!-- Minimal Profile README: Awards + Papers + One‑line Career -->
 
-<h1 align="center">👋 Hi, I'm 이성현</h1>
 
----
 
 ## 🏆 Awards
 
 * **한국정보처리학회 ACK 2023 추계학술발표대회 총장상**
 
----
+
 
 ## 📄 Papers
 
 * **[Reed-Solomon Encoded Block Storage in Key-value Store-based Blockchain Systems](https://doi.org/10.3745/TKIPS.2024.13.3.102)**
 
----
 
 ## 👔 Career
 
