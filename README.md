@@ -13,5 +13,5 @@
 - **한국전자통신연구원 (ETRI)** — Blockchain R&D Internship  
   *2023.07 – 2023.08*
 
-- **B-Harvest** — Blockchain Research & Validator Operations Intern  
+- **비하베스트 (B-Harvest)** — Blockchain Research & Validator Operations Intern  
   *2025.09 – Present*
